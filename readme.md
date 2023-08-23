@@ -12,7 +12,7 @@ This script allows you to generate QR codes for a given input data using the `qr
 1. Clone or download this repository to your local machine.
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nikhitkumar00/QR-Code-Generator.git
    ```
 
 2. Navigate to the project directory.
